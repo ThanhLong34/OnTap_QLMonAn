@@ -1,0 +1,11 @@
+D:\Projects\Winform\OnTapDesktop\bin\Debug\OnTapDesktop.exe.config
+D:\Projects\Winform\OnTapDesktop\bin\Debug\OnTapDesktop.exe
+D:\Projects\Winform\OnTapDesktop\bin\Debug\OnTapDesktop.pdb
+D:\Projects\Winform\OnTapDesktop\obj\Debug\OnTapDesktop.csproj.AssemblyReference.cache
+D:\Projects\Winform\OnTapDesktop\obj\Debug\OnTapDesktop.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Winform\OnTapDesktop\obj\Debug\OnTapDesktop.frmQuanLyMonAn.resources
+D:\Projects\Winform\OnTapDesktop\obj\Debug\OnTapDesktop.Properties.Resources.resources
+D:\Projects\Winform\OnTapDesktop\obj\Debug\OnTapDesktop.csproj.GenerateResource.cache
+D:\Projects\Winform\OnTapDesktop\obj\Debug\OnTapDesktop.csproj.CoreCompileInputs.cache
+D:\Projects\Winform\OnTapDesktop\obj\Debug\OnTapDesktop.exe
+D:\Projects\Winform\OnTapDesktop\obj\Debug\OnTapDesktop.pdb
